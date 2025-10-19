@@ -1,7 +1,7 @@
 {
   "name": "Revan",
   "device_id": "LIC_2D21HA",
-  "expiry_date": "31-12-9999",
+  "expiry_date": "31-12-2000",
   "status": "active",
   "package": "PERMANEN",
   "max_topup": 2147483647
